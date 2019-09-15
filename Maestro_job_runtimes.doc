@@ -1,0 +1,12 @@
+Basic query of a specific maestro job or schedule or command_line
+using a sql query to the Oracle table AM_MAESTRO_EVENT on POSDM1
+
+future enhancements:
+o Use parameters for the job name(s)
+o Use parameter for the depth of history
+
+Instructions: 
+1. Open file with Excel
+2. Under View menu, choose Refresh All
+3. Open beverage of choice and marvel 
+
